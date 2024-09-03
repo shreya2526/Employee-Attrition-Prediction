@@ -10,6 +10,8 @@ The dataset is first examined for missing values and irrelevant features. Catego
 - Exploratory Data Analysis (EDA):
 
 EDA is conducted to uncover patterns and relationships within the data. Visualizations such as histograms, boxplots, count plots, and heatmaps are used to explore the distribution of features and their correlations with employee attrition.
+
+
 - Feature Engineering:
 
 Non-informative features, such as EmployeeCount and StandardHours, are dropped from the dataset. Correlation analysis is performed to identify multicollinearity among the features.
@@ -44,4 +46,8 @@ Comparison of different machine learning models to select the most effective one
 
 **Acknowledgments**
 - Special thanks to _Kaggle_ for providing the dataset used in this project.
-
+![Heatmap of Correlations](images/heatmap.png)
+![Box plot](images/Boxplot.png)
+![count plot1](images/BarGraph-Dept.png)
+![count plot2](images/BarGraph-JobRole.png)
+![model](images/ModelBuilding-Code.png)
