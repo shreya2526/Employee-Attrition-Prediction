@@ -45,9 +45,12 @@ Comparison of different machine learning models to select the most effective one
 - This project provides a comprehensive analysis of employee attrition and highlights the key factors contributing to it. The insights gained from this analysis can help organizations make data-driven decisions to reduce turnover and improve employee retention.
 
 **Acknowledgments**
-- Special thanks to _Kaggle_ for providing the dataset used in this project.
-![Heatmap of Correlations](images/heatmap.png)
-![Box plot](images/Boxplot.png)
-![count plot1](images/BarGraph-Dept.png)
-![count plot2](images/BarGraph-JobRole.png)
-![model](images/ModelBuilding-Code.png)
+  - Special thanks to _Kaggle_ for providing the dataset used in this project.
+    
+- **Important Parts of this projects**
+
+  ![Heatmap of Correlations](images/heatmap.png)
+  ![Box plot](images/Boxplot.png)
+  ![count plot1](images/BarGraph-Dept.png)
+  ![count plot2](images/BarGraph-JobRole.png)
+  ![model](images/ModelBuilding-Code.png)
