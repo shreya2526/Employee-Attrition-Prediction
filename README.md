@@ -54,4 +54,4 @@ Comparison of different machine learning models to select the most effective one
   ![count plot1](images/BarGraph-Dept.png)
   ![count plot2](images/BarGraph-JobRole.png)
   ![model](images/ModelBuilding-Code.png)
-  ![Summary](images/summary.png)
+  ![Summary](images/Summary.png)
