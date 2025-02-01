@@ -25,33 +25,39 @@ The models' performance is compared, and key factors influencing employee attrit
 - Heatmap of Correlations:
 
 Visual representation of feature correlations to identify multicollinearity and key drivers of attrition.
+
+![Heatmap of Correlations](images/heatmap.png)
+
 - Count Plots:
 
 Analysis of categorical features such as BusinessTravel and Department in relation to attrition rates.
+
 - Boxplots:
 
 Distribution analysis of numerical features like YearsAtCompany to detect outliers and understand their impact on attrition.
+
+![Box plot](images/Boxplot.png)
+
 - Model Evaluation:
 
 Comparison of different machine learning models to select the most effective one for predicting employee attrition.
+
+![count plot1](images/BarGraph-Dept.png)
+
+![count plot2](images/BarGraph-JobRole.png)
+
+
 **Technologies Used**
 - Programming Language: _Python_
 - Libraries:
   - `pandas` `numpy` for _Data Manipulation_
   - `matplotlib`, `seaborn` for _Data Visualization_
   - `scikit-learn` for _Machine Learning_
+ 
+![model](images/ModelBuilding-Code.png)
 
 **Conclusion**
 - This project provides a comprehensive analysis of employee attrition and highlights the key factors contributing to it. The insights gained from this analysis can help organizations make data-driven decisions to reduce turnover and improve employee retention.
 
 **Acknowledgments**
-  - Special thanks to _Kaggle_ for providing the dataset used in this project.
-    
-- **Important Parts of this projects**
-
-  ![Heatmap of Correlations](images/heatmap.png)
-  ![Box plot](images/Boxplot.png)
-  ![count plot1](images/BarGraph-Dept.png)
-  ![count plot2](images/BarGraph-JobRole.png)
-  ![model](images/ModelBuilding-Code.png)
-  ![Summary](images/Summary.png)
+  - Special thanks to _Kaggle_ for providing the dataset used in this project
